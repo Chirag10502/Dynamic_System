@@ -1,4 +1,4 @@
-
+<!--second test from github to git  -->
 <?php
 if(session_status() === PHP_SESSION_NONE){
     session_start();
